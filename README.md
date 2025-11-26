@@ -16,7 +16,7 @@
 ## 🚀 About Me
 
 I’m an experienced **DevOps Engineer** with **6.4 years** of hands-on expertise in cloud infrastructure, CI/CD automation, and scalable system design.  
-My core focus lies in **Azure, AWS, Kubernetes, Docker, Terraform**, and **Jenkins** — driving automation, performance optimization, and reliability.
+My core focus lies in **AWS, Kubernetes, Docker, Ansible, Git, Terraform**, and **Jenkins** — driving automation, performance optimization, and reliability.
 
 🔭 **Currently Working On:** Cloud automation, container orchestration, and observability  
 🌱 **Learning:** AI-driven observability, AIOps, and advanced Kubernetes concepts  
