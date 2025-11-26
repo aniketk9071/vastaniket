@@ -30,7 +30,6 @@ My core focus lies in **AWS, Kubernetes, Docker, Ansible, Git, Terraform**, and 
 ### ☁️ Cloud Platforms
 <p>
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
   <img src="https://img.shields.io/badge/OCI-%23C74634.svg?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
 
